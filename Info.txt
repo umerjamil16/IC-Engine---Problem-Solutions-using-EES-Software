@@ -1,0 +1,10 @@
+1. HW1 Problem is solved in two seprate files.
+
+2. Similarly, HW2 Problem is solved in two seprate files. 
+Since the JANAF files were not excuting properly when running seperatly, 
+I have also attached the result of amount of CO in both cases in the PDF file.
+
+Submitted by:
+NS Qazi Umer Jamil
+GC Mudassar Wajid
+34 MTS B
